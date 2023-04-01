@@ -1,0 +1,45 @@
+body {
+    background-color: khaki;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.header {
+    height: 6em;
+    padding: 2em;
+    font-size: 1.8em;
+    color: blue;
+    background-image: url("../img/mercedes\ top4.png");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 250;
+
+}
+
+.products {
+    width: 85%;
+    margin: auto;
+}
+
+.products td {
+    width: 30%;
+    padding: 2em;
+}
+
+.products img {
+    width: 100%;
+    border: solid 1px blue;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgba(15, 52, 199, 0.882);
+    color: yellowgreen;
+    text-align: center;
+    font-weight: 900;
+}
